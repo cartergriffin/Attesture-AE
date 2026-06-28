@@ -1,0 +1,6 @@
+@Attesture.AE_HostAddress = http://localhost:5160
+
+GET {{Attesture.AE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
